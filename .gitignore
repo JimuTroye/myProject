@@ -1,0 +1,9 @@
+node_modules/
+config/
+.babelrc
+.eslintrc.json
+.idea/
+README.md
+index.html
+package.json
+
